@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyBerita</string>
+    <string name="menu_terbaru">MenuTerbaru</string>
+    <string name="menu_beritautama">BeritaUtama</string>
+    <string name="menu_antarkansemangat">#antarkansemangat</string>
+    <string name="menu_mostpopular">MostPopular</string>
+    <string name="var_condesc">var_condesc</string>
+    <string name="judul_headline">judul_Headline</string>
+    <string name="deskripsi_heaadline">desc_headline</string>
+    <string name="home">menu_home</string>
+    <string name="layanan">menu_layanan</string>
+    <string name="kategori">Menu_Kategori</string>
+    <string name="video">Menu_Video</string>
+    <string name="fotodesc">KOMPAS.COM</string>
+    <string name="detiknews">detiknews</string>
+    <string name="judul_berita">judulberita</string>
+    <string name="loremsum" />
+    <string name="kompas_com">KOMPAS.COM</string>
+</resources>
